@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WinFormsApp4": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DEBUG" :"FALSE",
+        "CONNECTION_STRING":"Data Source=DESKTOP-1ULGF16\\\\SQLEXPRESS;Initial Catalog=SSMS;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False"
+        
+      }
+    }
+  }
+}
