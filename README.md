@@ -39,7 +39,4 @@ The Computer Center Management System 2023 is a desktop application designed to 
 
 
 
-## Additional Information
-For any questions, issues, or suggestions, please feel free to [open an issue](https://github.com/Zeus62/CCMS-Computer-Center-Management-System/issues) on GitHub.
-
 Thank you for using Computer Center Management System 2023!
